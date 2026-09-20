@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AshishGupta189/DSA/tree/master/0125-valid-palindrome) |
+| [3498-reverse-degree-of-a-string](https://github.com/AshishGupta189/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AshishGupta189/DSA/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/AshishGupta189/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
