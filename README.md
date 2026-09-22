@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AshishGupta189/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AshishGupta189/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AshishGupta189/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AshishGupta189/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshishGupta189/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/AshishGupta189/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AshishGupta189/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AshishGupta189/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AshishGupta189/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/AshishGupta189/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AshishGupta189/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
