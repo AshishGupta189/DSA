@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AshishGupta189/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AshishGupta189/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AshishGupta189/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AshishGupta189/DSA/tree/master/0048-rotate-image) |
@@ -97,4 +98,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AshishGupta189/DSA/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AshishGupta189/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AshishGupta189/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
