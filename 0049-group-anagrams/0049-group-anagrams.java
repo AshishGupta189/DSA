@@ -8,7 +8,7 @@ class Solution {
             String ss = new String(ch);
             List<String> li = hm.getOrDefault(ss,new ArrayList<>());
             li.add(strs[i]);
-            hm.put(new String(ch),li);
+            hm.put(ss,li);
         }
         for(List<String> li : hm.values()){
             list.add(li);
