@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/AshishGupta189/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AshishGupta189/DSA/tree/master/0125-valid-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/AshishGupta189/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/AshishGupta189/DSA/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0229-majority-element-ii](https://github.com/AshishGupta189/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AshishGupta189/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AshishGupta189/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3838-weighted-word-mapping](https://github.com/AshishGupta189/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/AshishGupta189/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/AshishGupta189/DSA/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
