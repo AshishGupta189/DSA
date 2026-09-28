@@ -26,6 +26,7 @@
 | [0006-zigzag-conversion](https://github.com/AshishGupta189/DSA/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/AshishGupta189/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AshishGupta189/DSA/tree/master/0125-valid-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishGupta189/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/AshishGupta189/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/AshishGupta189/DSA/tree/master/3838-weighted-word-mapping) |
 ## Array
@@ -114,4 +115,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshishGupta189/DSA/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishGupta189/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AshishGupta189/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
